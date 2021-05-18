@@ -1,5 +1,6 @@
 # NewsScreenApp
 An android app which displays news list and also user can open particular news in a webview.
+This app have created using kotlin language, MVVM architecture, Retrofit library to fetch data from news api, Navigation components to navigate, Moshi converter to parse json data into kotlin objects, Glide library to load images and kotlin coroutines to perform asynchronous operation.
 
 <h3>Screenshots</h3>
 
